@@ -27,6 +27,7 @@
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [📈 Star History](#-star-history)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
 
 ---
@@ -112,6 +113,22 @@ We actively welcome contributions from the community! To suggest a new tool or u
    - For **Open-Source projects**: Provide active repository link, primary stack, and relevant graph/CRM feature set.
 3. **Commit your modifications** with a descriptive commit message.
 4. **Submit a Pull Request (PR)** detailing the addition and source links.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using **Awesome Relationship Intelligence & Mapping**! 🙌
+
+If you find this curated collection valuable for your workflow, research, or engineering stack, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and contribute** your favorite tools, graph engines, and benchmarks.
+- 📢 **Share with your network** — spread the word to fellow sales engineers, RevOps leads, and graph enthusiasts.
+- ☕ **Buy me a coffee / Sponsor the project**: Support ongoing maintenance and new ecosystem updates via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+<a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
 
 ---
 
