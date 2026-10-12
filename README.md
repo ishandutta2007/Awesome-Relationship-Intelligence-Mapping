@@ -61,9 +61,9 @@ The following enterprise platforms specialize in automated relationship extracti
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore open-source alternatives, graph databases, network analysis algorithms, entity resolution engines, and self-hosted personal CRMs. Sorted in descending order by **GitHub Star Count**:
+Explore open-source alternatives, graph databases, network analysis algorithms, entity resolution engines, and self-hosted personal CRMs. Sorted in descending order by **GitHub Stars_Count**:
 
-| Project 📦 | Stars ⭐ | Primary Technology 💻 | Description & Relationship Capabilities 💡 |
+| Project 📦 | GitHub_Stars ⭐ | Primary Technology 💻 | Description & Relationship Capabilities 💡 |
 | :--- | :--- | :--- | :--- |
 | **[Apache Superset](https://github.com/apache/superset)** | <a href="https://github.com/apache/superset/stargazers"><img src="https://img.shields.io/github/stars/apache/superset?style=social&color=white" alt="Stars" /></a> | Python, TypeScript | Modern enterprise business intelligence platform equipped with network chart plugins and interactive relationship analytics dashboards. |
 | **[Twenty](https://github.com/twentyhq/twenty)** | <a href="https://github.com/twentyhq/twenty/stargazers"><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white" alt="Stars" /></a> | TypeScript, NestJS, React | Next-generation modern open-source CRM featuring rich custom relational objects, automated metadata tracking, and developer-friendly graph APIs. |
